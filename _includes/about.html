@@ -1,0 +1,104 @@
+<section id="about">
+<style>
+    .mySlides {display:none;}
+    </style>
+    <section class="success" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>About</h2>
+                    <hr class="star-light">
+                </div>
+            </div>
+            <div class="row">
+                <div class="aboutme">
+                    <p>I am a senior at Oregon State University pursuing a bachelor’s degree in computer science with a minor in business. Currently I am working as a level 2 Student Support Technician for the College of Business at Oregon State University and will be graduating in the Spring of 2019. During my Sophomore year of college, I attended my first website development class and instantly fell in love with it. Since then I have furthered my passion for web development through an internship, free lance web development, and personal projects of my own. Currently I am working on multiple different projects, which are explained in the “Work in Progress” tab under the portfolio section above.  These projects include full stack website development, front-end website development, and process containerization.
+                        <br>
+                        <br>
+                        After my graduation in the Spring, I plan on finding full time employment in the West Coast of the United States. I am excited to use the skills I have gained through my education, work experience, and extracurricular activities to create software that will have a positive impact on the business world.  My career interests include website development, full stack development, quality assurance, and software development. 
+                        <br>
+                        <br>
+                        Outside of school, and the workplace, I enjoy spending most of my time with family and friends. I was raised on a small farm and have always enjoyed the outdoors, hiking, camping and fishing. Staying active is also an important aspect of my life and I love playing basketball, working out at the gym, and snowboarding. My passion for technology started when I was in high school and spent most of my time fiddling around with my first laptop. This passion was strengthened both through my degree in computer science, and my job in information services. 
+
+                    </p>    
+                </div>
+
+                <div class="resume">
+                <a href="/resume.pdf" target="_blank">Click for Résumé</a>
+                </div>
+
+                <div class="slidetitle">
+                    <h2>My Life</h2>
+                    <hr class="star-light">
+                </div>
+
+                <div class="slideshow-container">
+                    
+                    <div class="mySlides">
+                      <div class="numbertext">1 / 4</div>
+                      <img src="/img/slideshow/family.png" style="width:100%">
+                      <div class="text">Family</div>
+                    </div>
+                    
+                    <div class="mySlides">
+                      <div class="numbertext">2 / 4</div>
+                      <img src="/img/slideshow/friends.png" style="width:100%">
+                      <div class="text">Friends</div>
+                    </div>
+                    
+                    <div class="mySlides">
+                      <div class="numbertext">3 / 4</div>
+                      <img src="/img/slideshow/girlfriend.png" style="width:100%">
+                      <div class="text">Girlfriend</div>
+                    </div>
+
+                    <div class="mySlides">
+                            <div class="numbertext">4 / 4</div>
+                            <img src="/img/slideshow/dog.png" style="width:100%">
+                            <div class="text">Dog</div>
+                    </div>
+                    
+                    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+                    
+                </div>
+                    <br>
+                    
+                    <div style="text-align:center">
+                      <span class="dot" onclick="currentSlide(1)"></span> 
+                      <span class="dot" onclick="currentSlide(2)"></span> 
+                      <span class="dot" onclick="currentSlide(3)"></span> 
+                      <span class="dot" onclick="currentSlide(4)"></span> 
+                    </div>
+            </div>
+        </div>
+    </section>
+    <script>
+        var slideIndex = 1;
+        showSlides(slideIndex);
+
+        function plusSlides(n) {
+        showSlides(slideIndex += n);
+        }
+
+        function currentSlide(n) {
+        showSlides(slideIndex = n);
+        }
+
+        function showSlides(n) {
+        var i;
+        var slides = document.getElementsByClassName("mySlides");
+        var dots = document.getElementsByClassName("dot");
+        if (n > slides.length) {slideIndex = 1}    
+        if (n < 1) {slideIndex = slides.length}
+        for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";  
+        }
+        for (i = 0; i < dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" active", "");
+        }
+        slides[slideIndex-1].style.display = "block";  
+        dots[slideIndex-1].className += " active";
+        }
+    </script>
+</section>    

@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-15
+img: TracMow.png
+alt: image-alt
+project-date: September 2018
+client: BCS America
+category: Web Development
+description: Tracmow.com is a front-end website designed to showcase the TracMow Robot for BCS America, located in Portland Oregon. The TracMow Robot is a remote controlled robot designed to mow large areas from a distance, one example of the many uses for this robot is mowing in between crops. This website was created using HTML/CSS/JavaScript, it was designed in order to showcase the robot. In the future I will be reworking the entire website in to a full stack website, the features I will be adding include a video hosting page and a dealer located. Please visit tracmow.com if you would like to view my work.
+
+---

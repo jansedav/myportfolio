@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-15
+img: Rampant.png
+alt: image-alt
+project-date: June 2018
+client: Rampant Software
+category: Web Development
+description: I designed the Rampant Software website for the Rampant Software LLC startup during the summer of 2018. The development was done using the static site developer called Jekyll. Currently all of the features of the website are complete, the website will not be hosted until a graphic designer has completed the companies logos and added them to the website. If you would like more information on this project please feel free to contact me by filling out the contact form at the bottom of this website.
+
+---
