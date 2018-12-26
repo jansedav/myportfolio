@@ -2,14 +2,13 @@
 layout: default
 modal-id: 3
 date: 2014-07-15
-img: TracMow.png
+img: Rampant.png
 alt: image-alt
-project-date: September 2018
-client: BCS America
-clientwebsite: https://bcsamerica.com/
-website: //www.tracmow.com
-websitename: www.tracmow.com
+project-date: June 2018
+client: Rampant Software
+noclientwebsite: t
 
-description: Tracmow.com is a front-end website designed to showcase the TracMow Robot for BCS America, located in Portland Oregon. The TracMow Robot is a remote controlled robot designed to mow large areas from a distance, one example of the many uses for this robot is mowing in between crops. This website was created using HTML/CSS/JavaScript, it was designed in order to showcase the robot. In the future I will be reworking the entire website in to a full stack website, the features I will be adding include a video hosting page and a dealer located. Please visit tracmow.com if you would like to view my work.
+description: This website was designed during a summer internship for Rampant Software LLC, which is a software development startup located in portland OR. The website will eventually be utilized as the Rampant Software company website once completed. Currently the website is very close to completion and will be available for viewing once the graphic designer is done adding their work to the website. Once the site is available for viewing I will be adding a link below in order to showcase my work. Development of the website was done using the static site development software called Jekyll. If you would like more information on this project please feel free to contact me by filling out the contact form at the bottom of this website. If you would like more information on this project please feel free to contact me by filling out the contact form at the bottom of this website.
+---
 
 ---

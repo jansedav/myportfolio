@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-15
+img: Ambrogio.png
+alt: image-alt
+project-date: September 2018
+client: BCS America
+clientwebsite: https://bcsamerica.com/
+website: //www.lawn-robot.com
+websitename: www.lawn-robot.com
+
+
+description: Lawn-robot.com is a front-end website designed to showcase the Ambrogio Robot for BCS America.  The Ambrogio Robot is an automated robot designed to mow your lawn with minimal human interaction, the robot functions similar to a Roomba vacuum. This website was created using HTML/CSS/JavaScript, it was designed in order to showcase the robot for an event. In the future I will be reworking the entire website in to a full stack website, the features I will be adding include online purchases and a dealer locator. Please visit the link provided below if you would like to view my work. If you would like more information on this project please feel free to contact me by filling out the contact form at the bottom of this website.
+---

@@ -2,14 +2,14 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: Ambrogio.png
+img: TracMow.png
 alt: image-alt
 project-date: September 2018
 client: BCS America
 clientwebsite: https://bcsamerica.com/
-website: //www.lawn-robot.com
-websitename: www.lawn-robot.com
+website: //www.tracmow.com
+websitename: www.tracmow.com
 
+description: Tracmow.com is a front-end website designed to showcase the Ambrogio Robot for BCS America. The TracMow Robot is a remote controlled robot designed to mow large areas from a distance, one example of the many uses for this robot is mowing in between crops. This website was created using HTML/CSS/JavaScript, it was designed in order to showcase the robot for an event. In the future I will be reworking the entire website in to a full stack website, the features I will be adding include a video hosting page and a dealer locator. Please visit the link provided below if you would like to view my work.
 
-description: Lawn-robot.com is a front-end website designed to showcase the Ambrogio Robot for BCS America, located in Portland Oregon. The Ambrogio Robot is an automated robot designed to mow your lawn for you, the robot functions similar to a Roomba vacuum. This website was created using HTML/CSS/JavaScript, it was designed in order to showcase the robot. In the future I will be reworking the entire website in to a full stack website, the features I will be adding include online purchases and a dealer located. Please visit lawn-robot.com if you would like to view my work.
 ---

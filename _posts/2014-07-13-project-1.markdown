@@ -4,9 +4,9 @@ modal-id: 1
 date: 2014-07-15
 img: Progress.png
 alt: image-alt
-project-date: June 2018
-client: Rampant Software
+project-date: September 2018 - June 2019
+client: HP
 noclientwebsite: t
 
-description: TagYoureIt is a full stack application that I am currently working on for Rampant Software LLC. This application will be designed to allow users to play a game of tag from their phones. Users will eventually be capable of downloading the application from their phones, creating a user account, having a friends list, and the ability to tag their friends when within a certain range of one another. User accounts can be created both within the application and through the use of OAuth2 from other accounts they already have created. This application is a work in progress and will be explained in further detail as development progresses.
+description: From September 2018 to June 2019 I will be working on a project with HP which will involve containerizing the process for their PageWide Industrial Webpress. some of the technologies we will be using for this project include Docker for the containerization, and Kubernetes for container management. I will be working with a group of seven, including two team leaders who currently work at HP, in order to complete this project. The main focus of this project is to containerize each individual aspect of the current WebPress process in order to reduce process downtime and to maximize the utilization of server space. If you would like to hear more about this project please contact me through the email form located at the bottom of the website.
 ---
