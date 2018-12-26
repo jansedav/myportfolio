@@ -5,7 +5,8 @@ date: 2014-07-15
 img: Progress.png
 alt: image-alt
 project-date: June 2018
-client: N/A
-website: lawn-robot.com
+client: Rampant Software
+noclientwebsite: t
+
 description: TagYoureIt is a full stack application that I am currently working on for Rampant Software LLC. This application will be designed to allow users to play a game of tag from their phones. Users will eventually be capable of downloading the application from their phones, creating a user account, having a friends list, and the ability to tag their friends when within a certain range of one another. User accounts can be created both within the application and through the use of OAuth2 from other accounts they already have created. This application is a work in progress and will be explained in further detail as development progresses.
 ---
