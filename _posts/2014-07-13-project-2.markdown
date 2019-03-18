@@ -1,12 +1,13 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-15
-img: Progress.png
+date: 2019-01-01
+img: LunchMoney.png
 alt: image-alt
-project-date: June 2018
-client: Rampant Software
+project-date: January 2019
+client: None
 noclientwebsite: t
+website: https://github.com/jansedav/LunchMoney
 
-description: TagYoureIt is a full stack application that I am currently working on for Rampant Software LLC. This application will be designed to allow users to play a game of tag from their mobile devices. Users will eventually be capable of downloading the application on their phones, creating a user account, having a friends list, and the ability to tag their friends when within a certain range of one another. User accounts can be created both within the application and through the use of OAuth2 to connect to either their Facebook or Google account. This application is a work in progress and will be explained in further detail as development progresses. If you would like more information on this project please feel free to contact me by filling out the contact form at the bottom of this website.
+description: LunchMoney is a full stack application I began working on as a personal project in January of 2019. This application is constructed using the MERN stack (MongoDB, Express, React, NodeJS). The purpose of this project is to supply small restaraunts with an application for inventory management. I was inspired to make this application after watching the television series Kitchen Nightmares. One pattern that I regularly saw in failing small restaraunts was a lack of inventory management which often led to expired/rotten food, poor profit margins, or food pricing that was absurdly high. My solution was an open source application that could handle simple inventory management without forcing small restaraunts to spend thousands on a fancy program they don't need. This application is still under development, feel free to take a look at my code linked below if you are interested.
 ---
