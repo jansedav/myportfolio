@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 7
+date: 2019-01-01
+img: Progress.png
+alt: image-alt
+project-date: January 2019
+client: None
+noclientwebsite: t
+website: https://github.com/jansedav/Kaltura-Download
+websitename: Github
+
+
+description: The Kaltura Downloader is an application I am currently constructing for Media Services at Oregon State University. This applications purpose is to download the parent video of a two video upload done in the past. My solution was for a user to input an ID associated with the video they would like to extract, with that ID my application sends a request to the Kaltura API. From this request I get a response from Kaltura with the associated video and the application will automatically download it for the user. This application was constructed using Node.js and React.js. Please view the GitHub link below if you would like to see the code.
+---

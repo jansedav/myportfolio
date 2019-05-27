@@ -2,11 +2,13 @@
 layout: default
 modal-id: 1
 date: 2014-07-15
-img: Progress.png
+img: Webpress.png
 alt: image-alt
 project-date: September 2018 - June 2019
 client: HP
 noclientwebsite: t
+website: https://github.com/dgrocki/HP-Docker-Capstone
+websitename: GitHub
 
-description: From September 2018 to June 2019 I will be working on a project with HP which will involve containerizing the process for their PageWide Industrial Webpress. some of the technologies we will be using for this project include Docker for the containerization, and Kubernetes for container management. I will be working with a group of seven, including two team leaders who currently work at HP, to complete this project. The main focus of this project is to containerize each individual aspect of the current WebPress process in order to reduce process downtime and to maximize the utilization of server space. If you would like to hear more about this project please contact me through the email form located at the bottom of the website.
+description: From September 2018 to June 2019 I will be working on a project with HP which will involve containerizing the process for their PageWide Industrial Webpress. Some of the technologies we will be using for this project include Docker for the containerization, and Kubernetes for container management. I will be working with a group of seven, including two team leaders who currently work at HP, to complete this project. The main focus of this project is to containerize each individual aspect of the current WebPress process in order to reduce process downtime and to maximize the utilization of server space. Please view the GitHub link provided below if you would like to learn more about this project.
 ---

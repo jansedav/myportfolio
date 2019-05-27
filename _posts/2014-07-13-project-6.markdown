@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 3
+date: 2019-01-01
+img: Kaltura.png
+alt: image-alt
+project-date: January 2019
+client: None
+noclientwebsite: t
+website: https://github.com/jansedav/Kaltura-XML-API
+websitename: Github
+
+
+description: The Kaltura Uploader is an application I constructed for Media Services at Oregon State University. This applications purpose is to upload two video files at once in order to merge them in to a single video. In the past this was only possible by editing an XML file to fit the associated video files, then sending that XML file and the two associated video files through FTP to Kaltura. My application completely automates this process for a user by having them simply input all of the necessary information in to a form. Upon submissing of the form the application creates an XML file that fits the user inputs and passes that file, along with the two associated video files, through FTP to Kaltura. This application was constructed using Node.js and React.js. Please view the GitHub link below if you would like to see the code.
+---
